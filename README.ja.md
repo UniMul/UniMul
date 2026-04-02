@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.md">🇺🇸 English</a> | <a href="./README.ja.md">🇯🇵 日本語</a>
+</p>
+
 ![header](./assets/readme/header_jp.svg)
 
 # UniMul
@@ -23,5 +27,3 @@ Unity・C#・Shader・URP・RenderGraph・クリーンアーキテクチャ・�
 ## 📊 GitHub Stats
 
 ![summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UniMul&theme=tokyonight)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=UniMul&theme=nord)
