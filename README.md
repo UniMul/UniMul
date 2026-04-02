@@ -26,5 +26,3 @@ Unity · C# · Shaders · URP · RenderGraph · Clean Architecture · Automation
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=UniMul&theme=nord)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniMul&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=UniMul&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
