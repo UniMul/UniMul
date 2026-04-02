@@ -20,9 +20,7 @@ Unityエンジニア / グラフィックス / マネジメント / 開発基盤
 ## 技術スタック
 Unity・C#・Shader・URP・RenderGraph・クリーンアーキテクチャ・自動化・マネジメント
 
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity)
-![CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID)
